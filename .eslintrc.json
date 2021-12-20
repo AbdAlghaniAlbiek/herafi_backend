@@ -1,0 +1,36 @@
+{
+    "parser": "babel-eslint",
+    "parserOptions": {"ecmaFeatures": {"jsx": true, "esversion":6}},
+    
+    "extends": ["airbnb", "prettier", "plugin:node/recommended"],
+    "plugins": ["prettier"],
+    "rules": {
+        "prettier/prettier": "off",
+        "no-unused-vars": "warn",
+        "no-console": "off",
+        "prefer-const": "warn",
+        "newline-after-var": "off",
+        "import/newline-after-import": "off",
+        "func-names": "off",
+        "prefer-arrow-callback": "warn",
+        "no-process-exit": "off",
+        "no-process-env": "off",
+        "object-shorthand": "off",
+        "spaced-comment": "off",
+        "class-methods-use-this": "off",
+        "prefer-template": "off",
+        "node/no-unpublished-require": "off",
+        "no-else-return": "warn",
+        "no-dupe-class-members": "off",
+        "prefer-promise-reject-errors": "off",
+        "no-array-constructor": "off",
+        "no-plusplus":"off",
+        "no-lonely-if":"off",
+        "no-param-reassign":"off",
+        "consistent-return":"off",
+        "arrow-body-style": ["error", "as-needed", {
+            "requireReturnForObjectLiteral": true
+        }]
+    }
+    
+}
