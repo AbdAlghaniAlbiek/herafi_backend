@@ -1,6 +1,6 @@
 # ![hearfi_backend_image](https://github.com/AbdAlghaniAlbiek/Herafi/blob/master/Herafi.UWP/Assets/Images/AppIcons/StoreLogo.scale-100.png) herafi_backend ![Twitter Follow](https://img.shields.io/twitter/follow/AbdAlbiek?style=social) ![GitHub](https://img.shields.io/github/license/AbdAlghaniAlbiek/SQLiteDBProject) ![node-current](https://img.shields.io/node/v/dotenv)
 
-* This is my graduation project that I worked on it for 4 months, and It gives 98/100 considered the best graduations projects from.
+* This is the backend that I worked on along with my graduation project that I worked on it for 4 months, and It gives 98/100 considered the best graduations projects from.
 * It is the backend that serve my Herafi UWP client application(admin application) and my friends' android applications(user and craftman applications), which contains on Restfull APIs that consumed by these apps.
 * you can see my Herafi UWP client application from [here.](https://github.com/AbdAlghaniAlbiek/Herafi)
 
