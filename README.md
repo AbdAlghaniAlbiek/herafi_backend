@@ -2,7 +2,9 @@
 
 * This is the backend that I worked on along with my graduation project that I worked on it for 4 months, and It gives 98/100 considered the best graduations projects from.
 * It is the backend that serve my Herafi UWP client application(admin application) and my friends' android applications(user and craftman applications), which contains on Restfull APIs that consumed by these apps.
-* you can see my Herafi UWP client application from [here.](https://github.com/AbdAlghaniAlbiek/Herafi)
+* You can see my Herafi UWP client application (Admin app) from [here.](https://github.com/AbdAlghaniAlbiek/Herafi)
+* Android Craftman application from [here.](https://github.com/ABDULKARIMALBAIK/herafi)
+
 
 # Table of content
 * [Technologies Used](#technologies-used)
